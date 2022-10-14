@@ -1,0 +1,19 @@
+python -m venv tfml
+source tfml/Scripts/activate
+deactivate
+
+python -m pip install --upgrade pip
+
+Install dependencies and add virtual environment to the Python Kernel
+python -m pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name=tfodj
+
+carga trasaccional
+seguridad
+disponibilidad
+
+Escalabilidad y rendimiento (para tiempos de respuesta y almacenamiento)
+Exactitud -Confiabilidad
+Usabilidad
+Robustez- disponibilidad, control y tolerancia de fallos
