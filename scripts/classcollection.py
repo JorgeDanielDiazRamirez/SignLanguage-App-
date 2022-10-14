@@ -24,7 +24,7 @@ for label in labels:
     if not os.path.exists(path):
         os.makedirs(path, mode)
 
-""" for label in labels:
+for label in labels:
     cap = cv2.VideoCapture(0)
     print('Collecting images for {}'.format(label))
     time.sleep(5)
@@ -42,13 +42,5 @@ cap.release()
 cv2.destroyAllWindows()
 
 if not os.path.exists(LABELIMG_PATH):
-    !mkdir {LABELIMG_PATH}
+    os.makedirs(LABELIMG_PATH, mode)    
     
-if os.name == 'posix':
-    !make qt5py3
-if os.name =='nt':
-    !cd {LABELIMG_PATH} && pyrcc5 -o libs/resources.py resources.qrc
-
-TRAIN_PATH = os.path.join('Tensorflow', 'workspace', 'images', 'train')
-TEST_PATH = os.path.join('Tensorflow', 'workspace', 'images', 'test')
-ARCHIVE_PATH = os.path.join('Tensorflow', 'workspace', 'images', 'archive.tar.gz') """
