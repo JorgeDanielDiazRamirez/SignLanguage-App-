@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mysql-phpmyadmin-365216",
+  "private_key_id": "fcbc31f6775bf59ed12e70b9f9f7b3452495b616",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmpm7g5yzFP0Ub\n0ORjvqcP5gboynHqIHyt9axs+zc3d26Um2if0m0ISYs0UK0nQcbhut1LorR2h5SS\n3gaqzLY26ibaH/i1eEKa5C+Jl4v77P4canj7NO/qjM2E/IAYDTw1+uZMhtkpAfnw\nl7aIZVJFc9/S66s1HseLXCcXlDqslfngSz0SaYcqPztcvhlYPd5YJAqiW+PRTIEm\nP8vWccrUCOBhL0yJncSG/yzk4n3pALIIJVQvBNisN+F3rjRyt4zwnc+Pw7R6Dt4I\nosVX6/FlhM/npe4zMYxbBhiNBGOF2QPe4BIWz+iDaGuj+bFKA272+68/Alr/IBHD\nPnaAaELnAgMBAAECggEASy2Ekm+nGjo/FlvHVBnTKpBl6Ik/F1Pdeup7hNRVJe/6\nUg7DhWm7ZwQqSIjme/Gn4vfV0cON7nSeORzw3AcqYh6CNV875r1gKpiqu0LC0vyn\n67C6b/SDEIfBRO9VZ8Q8t8s+LiKc/2tVUcxW+zPeB9fMjk1jODzw3rTNK81iJK1u\n/BrLyzrFHU234O7c6ULPvHlpjfDSwalHXNM32BuSD1q3FA+DA4q7yUVRF6HNTeMm\nyQayRwQElaubq4uUdOk3GDwGTMPUERNIW6BixMVZcTCCI2jQ6ohchO60ulnkvDQm\nfUjFG1UQbdBt3QG26e3CT0otl7f2hu7EHr0Bbpi9xQKBgQDXhHDsPY/uxGkkV0My\neNZdarCTu36p744fvLys80JrFeZBvuvYzR4BmLo8sPFye1uqcdVVuVdDnRfSCth8\noOOee7F86bcrnrM5NfGx7tKTBeTxQXSKqdqvm21Xo4ojNyu+zXOFVWvCqhi6QeR7\n51gA9snwuv+3lVqM+KHb5phzlQKBgQDF9B6VnluuasX8o+39i5dy3xfTXlsF2HGN\nk5/saCL37iJbLFpG02Zq/m9P/VR4+Ns3ZGOT/Z41EDtfSlf/XW+bnKMCxnMwW6kC\nMJjIp98qRHheY1HRgwh682ShDhCzf2Oj7sOVLOrn99gi1rO4s+g+jZwDYcEzK92X\nIrUo0fs9iwKBgQCV1HOVKa949X+LTkdfPXb6dwPPkRgcGHkcQ2CAdJYGULFFn+/j\nR6bGwWEodHNHfc9ajc0czb+HOB2pXvTmoAve0GuyReGcJ7a93WzsoPYwVHa36yOU\ni0WHtGyt8vpERUTaX4cieSJzsUGDq++m3EzoTqpR/A9vmBvdybTtZkEyiQKBgQCq\n3m/QAmNtCKlhzDbQFsBh3YR5ZQb44r4R0Q3ISJN2o01wmbZLUIsla/61cxyJV3YS\nOEtkIRWBBEPbmxaeTQ7bqbdj29zuLxCR3VTkT1No7rVf9CdZy9t0FcgU5UkxR5LA\nnIaiq6URGnSsjduQYWrlI+M5YBYej4y0urbZR3ewxQKBgBt+xkhYaUjBSjBSw0up\nfJ9pqtC9TZf+4jYVGhEKyNtaxvn5gHDl9fCOO+iRfeznChfODIIFZyelZlnjRKcp\nYoTXLfzaihXFR/JW29QffZqVWrn+Sf04/2YUosYYBmOoStTqbfaFd53es13Mp+x/\na+4/2hPanWevxQYhpcT2faP4\n-----END PRIVATE KEY-----\n",
+  "client_email": "databases@mysql-phpmyadmin-365216.iam.gserviceaccount.com",
+  "client_id": "101487836468917486352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/databases%40mysql-phpmyadmin-365216.iam.gserviceaccount.com"
+}

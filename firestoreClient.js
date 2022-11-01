@@ -1,11 +1,12 @@
-const {Firestore} = require('@google-cloud/firestore');
+const { Firestore } = require('@google-cloud/firestore');
+//const serviceAccount = require('./asl-machinelearning-367219-35441f41c58b.json');
 const path = require('path');
 
 class FirestoreClient {
     constructor() {
             this.firestore = new Firestore({
-                projectId: 'asl-machinelearning-367219',
-                keyFilename: path.join(__dirname, './asl-machinelearning-367219-35441f41c58b.json')
+                projectId: 'asl-machinelearning',
+                keyFilename: path.join(__dirname, './asl-machinelearning-firebase-adminsdk-zlp83-f9b559730f.json')
             })
         }
         //Building the reference
