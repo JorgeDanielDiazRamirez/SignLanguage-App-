@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asl-machinelearning-367219",
+  "private_key_id": "35441f41c58b099e7e097e837b3f6112c97eb38c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjzDnicBRpDFN5\n2PtzT6dqLf81meOpKm1r2gv93HEAlsSpyaDlb/cZIlaGwb+WnxC9qs7azJNmZxXA\n0oYl/0tdwHFaxuoRp+V24nYLkxyV4UcOpDRflINxLMJysbdocl6VGX1ZgJUWShKv\nhrzF7/2tR3tIqOWRoT8RPAo8D9qaNxaTiEEM3oQFbf1Z7CkaPypRQBST8OO7DGOf\n17F4r9xJUEw3BFfQWemK4fdGQ9z9HI0KOQrwi0fRYp2ULBZUk0gYTt4vIODc12rh\n4nsShyeOZRDGrcfBhagfIm43Bv1esLcsFGR4gBiAMp0AvBcTfcJrHP112qjaFKrJ\n1igguOC9AgMBAAECggEAC/MqFO5K2ugajfTp0V2SD/HHoPQ3cv/EqF3pyo1C1EFr\nmxx558s9moCSEfZAIT+9E61KtpU+urWSFXV2cn6306Dm1DHXYU7fs4btiEYlC306\nNyP9Kyz1UvQqQn5bLFxNsLCBn9484jmot9QLYSBzYCkrIh+qUe/S31HDSGL6to3o\nyr5Hd8SL69GA2Zvryt1mep1IoJxhNc0dTpJXK7E9nfaA241rA5UQ1GcahV7V/7YV\nUXLt2XzQNqlpGJEzMVv6gHOgLhBybuoh6slVrtb1i3Tdl9fzqYjpLPqquzls8uTG\nhhXgpBnf4d6ZbhovLsMwUOUkXZGg0jPkwkhGhuq20QKBgQDh2bAf1+pAW5Wx9f9W\njCBdtodnvsxwLlwmtZnlsrZ0RjLkHrV4oDRjAEdVTUEJETFRKFh/dieFF0MoxkDy\nCsIQtna2gHHH+Ip7vyYk3uU2D8tIG5x1+YV5pSbAxBpnV6TzLwUV14lqHr95MfvL\nB9mdUg3pRyKAUwpycx30m5BeMQKBgQC5qezJKsfCqPqXwz4y7gEr/VG2n4Tq8IqJ\nysOPFMe3N6Wg2NUE2u3wlYDlcAe/UY0vWgbPzYFz3Dx2ZgDkkdKdqlxfAiLzLbQo\n30kTJM6eCin8B/K0y5/SEWxOZ0idxirPrn3R8V7Exm6PMI3Ds8/HIFfJ+YZ2oNX9\nzrFpXDZMTQKBgCPeFoJ4H9Oot9VTZAGyr1Eys75eJsmKE0hyfsZj42YD4AEqf1dw\n2eD/IlUBt9pgyJxC9AsKEKyqTRgkpBvMaZWN5LyHGYrQhe2xJbWlUHGNgJMrD2YN\nAo2XFNh4TFktKh0U0pHtcP1RdMcikQJldMHvThZGHcyTY41ZiuBV9E+BAoGBALQw\nw9tVhrxY7aSe293n+gEsgMLCPOkbfQlQXc2euFoMStY5uzxUEju9jXSf7xTyXBkJ\nwbSqWaoNpCywwMsU75kPf0jCNRNYVxKX6j8HKPRfHvI48IghW8IwILJTMTnW2zPm\nwLwiCvzlLOYRlHTMLaqvrCQc5TB61lTW5n4//X69AoGASFTfYbGWA01AfImpjfIb\ngq9hF45ci9V4AMk5W+MRfNqVfUc97v9MMImoISa9w6O+7aGb666pio64fi6SiWZu\n7xD31NQF7yHRTg2iWVmkNC3L271AGdriGY5C14x09Nf1PxS1IFRseen8l7bNnkrE\nUu4GRSYSOjXBrXSopThTtiI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-engine-asl-ml-service-acco@asl-machinelearning-367219.iam.gserviceaccount.com",
+  "client_id": "109336119014281520316",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-engine-asl-ml-service-acco%40asl-machinelearning-367219.iam.gserviceaccount.com"
+}
