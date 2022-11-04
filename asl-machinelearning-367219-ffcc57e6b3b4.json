@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asl-machinelearning-367219",
+  "private_key_id": "ffcc57e6b3b49662fa780e5ceaf4baa7f1f49c19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgInkK3E/sHRmo\nbrHQgoTmhY4/YAy1Y4Mv7rqndrrBvC59kmRMsfI8sRUNG6zczd1cipCp/+e+gv2V\nThPfJU0TXzE5mZeMirEu8KHFGXEsp3pwd/D5Rn+518ZVRYegwBYE9Id1TfcwGJS6\nEXymIaFcPNv4L7gJwj6hJN0B0r5ypZJmbRPueLal8EC1AaZqy3jeaurO2WFDaoeq\n/jx8uWY6IZ8xHhqqxAnw38ooOphRQ6A+R/D3V7O47mlAcDvmKObhFJ7KwfVKF3RV\nrb4DwUjzS9Z8Bn2iSHZ18XSsIutBmU8vnoxLmAtW29n11JFgxe9vmxT4NaJ1FS44\nJoTAwW/1AgMBAAECggEAAXcOX/R9yY55SwAFAMMRB8mkeHfjQk0yJLbpdjM63SF7\nYikNp44R6Jd/bQla49UPbSFabwgxlCPpXTK11wEHVnyKRIYyG8mb/TFnyF+ngh0j\nXw6F9UFT3ra7DRQaHgIvu0aPc83/C7ghGzVVSN3yVRHwdnXYxqgrYz+m0nv/ejtH\n2ntkraPia8dT0Ajgs8lWJV3LOAdk7pxSGnZMdPbacc2fnIdvRDApOWkofAahMlJo\n4JSX8/jYfV3E+vJ4o2F82XnJ6hROMjHuym4vsuPJx5rbq2+znpo1vR+TwHEYIBz4\n0sS5jsIOIznu8fFxAdZrmSCLkRKmOm/O+DxamdLT4QKBgQD3Ix0MPZkFDLtVIpNY\nbBkQ6FurJHaJPBfzP7W6g7L0yWVPdLiASOpL1ZMubyUjCJoQp9EFo0ybeaom0r4J\nuo/wOhwvmRIbD+02mEnB3FyoIDnaJWQTd44rOaD6D2tSB2yYx3Hl4NFDx2NNz8cU\nFdFgGVU5UkyIT+xVN2lz/H26DQKBgQDoLC5I/hY42yNrp4gcx3cZztaWVKfdxZL4\nEjs5pQnsGz0wnamHfBK6Ler8vrc6JqajRK44/8+cayZbSHemVG85X+9gDqpPPYkh\nEW9mY1358+ytySaKn3+SYUSxlFnZ347ZCeL/Qw+cRgQwpxX6NQCqRPLt8SuTrlq1\n8sEpk1+biQKBgQDaVp9XLSR/nZvzvzRGLlqG4YH7VZ+T5w+RzHuVaL02Hqfu5sQK\nMmEs1mfN4kwBA5x5konMXVVVFswIuK9EkRqRtgUo2Cdy2UNNtIWVTEZgEviJjfc4\na6ui7KsXwX+jXQPIhoxN961qIEHPgP309MGiET+GAPu0gkfdkbMM0cmSEQKBgGCm\nU7ZLH9EXWI1uNnlUh74UnrwCDceCggYHAOSkUZcaV8SvPW2LNviOOO5yLjBk+qWo\n56YOx8xjxpnldvmk2JBX4XxpXniSM02yxl8nKm3tHy/RNtwqPZ8gIsqR6T2LlRnA\nxeBheFQjyYa/Z6S6/8Xh4gcviGZ4BIcNwV+fXAORAoGAE6W9cvLe9Z5QNAKZF2cy\nWlvDuHGUGKkj4tJ1lt8tqPL9XVikRxBe+zxGFfaaxxj/L4CQLfRIT6pylGgS/sOU\nws+IYCnbm3tG3p80dL5yPSs0dJqzWEIki1jijn7lTE7y1sBVvpy/Ftlb+YU4rYtw\nthFxO7rlWjbFC8VnOFkl28Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-admin@asl-machinelearning-367219.iam.gserviceaccount.com",
+  "client_id": "114007986863709330690",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-admin%40asl-machinelearning-367219.iam.gserviceaccount.com"
+}

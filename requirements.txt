@@ -1,0 +1,5 @@
+firebase-admin
+google-cloud-storage
+pyqt5
+lxml
+#pip install -U -r requirements.txt

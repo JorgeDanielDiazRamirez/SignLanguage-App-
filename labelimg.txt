@@ -1,0 +1,3 @@
+pip3 install labelImg
+labelImg
+python labelimg.py ../training-images-repo/
